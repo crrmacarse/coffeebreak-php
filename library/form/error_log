@@ -1,0 +1,22 @@
+[08-Mar-2018 04:08:22 America/Chicago] PHP Warning:  unlink(../../img/advert/): Is a directory in /home1/jqgfc/public_html/beta/library/form/deleteAdvertForm.php on line 40
+[08-Mar-2018 04:08:26 America/Chicago] PHP Warning:  unlink(../../img/advert/): Is a directory in /home1/jqgfc/public_html/beta/library/form/deleteAdvertForm.php on line 40
+[04-Apr-2018 01:50:07 America/Chicago] PHP Fatal error:  Call to undefined function password_hash() in /home1/jqgfc/public_html/beta/library/form/loginForm.php on line 36
+[04-Apr-2018 01:50:13 America/Chicago] PHP Fatal error:  Call to undefined function password_hash() in /home1/jqgfc/public_html/beta/library/form/loginForm.php on line 36
+[04-Apr-2018 02:03:18 America/Chicago] PHP Fatal error:  Call to undefined function password_hash() in /home1/jqgfc/public_html/beta/library/form/loginForm.php on line 36
+[04-Apr-2018 02:03:22 America/Chicago] PHP Fatal error:  Call to undefined function password_hash() in /home1/jqgfc/public_html/beta/library/form/loginForm.php on line 36
+[04-Apr-2018 02:03:33 America/Chicago] PHP Fatal error:  Call to undefined function password_hash() in /home1/jqgfc/public_html/beta/library/form/loginForm.php on line 36
+[04-Apr-2018 02:08:27 America/Chicago] PHP Fatal error:  Call to undefined function password_hash() in /home1/jqgfc/public_html/beta/library/form/loginForm.php on line 36
+[04-Apr-2018 02:09:36 America/Chicago] PHP Fatal error:  Call to undefined function password_hash() in /home1/jqgfc/public_html/beta/library/form/loginForm.php on line 36
+[04-Apr-2018 02:10:02 America/Chicago] PHP Fatal error:  Call to undefined function password_hash() in /home1/jqgfc/public_html/beta/library/form/loginForm.php on line 36
+[04-Apr-2018 02:15:00 America/Chicago] PHP Fatal error:  Call to undefined function password_hash() in /home1/jqgfc/public_html/beta/library/form/loginForm.php on line 36
+[04-Apr-2018 02:17:20 America/Chicago] PHP Fatal error:  Call to undefined function password_hash() in /home1/jqgfc/public_html/beta/library/form/loginForm.php on line 36
+[04-Apr-2018 02:17:43 America/Chicago] PHP Fatal error:  Call to undefined function password_hash() in /home1/jqgfc/public_html/beta/library/form/loginForm.php on line 36
+[04-Apr-2018 02:18:44 America/Chicago] PHP Fatal error:  Call to undefined function password_hash() in /home1/jqgfc/public_html/beta/library/form/loginForm.php on line 36
+[04-Apr-2018 02:19:34 America/Chicago] PHP Fatal error:  Call to undefined function password_hash() in /home1/jqgfc/public_html/beta/library/form/loginForm.php on line 36
+[04-Apr-2018 02:20:02 America/Chicago] PHP Fatal error:  Call to undefined function password_hash() in /home1/jqgfc/public_html/beta/library/form/loginForm.php on line 36
+[04-Apr-2018 02:21:21 America/Chicago] PHP Fatal error:  Call to undefined function password_hash() in /home1/jqgfc/public_html/beta/library/form/loginForm.php on line 36
+[04-Apr-2018 02:21:53 America/Chicago] PHP Fatal error:  Call to undefined function password_hash() in /home1/jqgfc/public_html/beta/library/form/loginForm.php on line 36
+[04-Apr-2018 02:24:55 America/Chicago] PHP Fatal error:  Call to undefined function password_hash() in /home1/jqgfc/public_html/beta/library/form/loginForm.php on line 36
+[04-Apr-2018 02:25:04 America/Chicago] PHP Fatal error:  Call to undefined function password_hash() in /home1/jqgfc/public_html/beta/library/form/loginForm.php on line 36
+[04-Apr-2018 02:45:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home1/jqgfc/public_html/beta/library/form/loginForm.php on line 94
+[04-Apr-2018 02:46:20 America/Chicago] PHP Fatal error:  Call to undefined function hash_equals() in /home1/jqgfc/public_html/beta/library/form/loginForm.php on line 65

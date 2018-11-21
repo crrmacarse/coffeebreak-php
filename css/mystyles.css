@@ -1,0 +1,696 @@
+body {
+    color: black!important;
+    background-color: white !important;
+}
+
+@font-face {
+    font-family: HelveticaBlkFile;
+    src: url(../library/ttf/HELVETICALTSTD-BLK_2F.otf);
+}
+
+.mainButtonDown
+{
+	margin-top: 420px !important;
+}
+
+.navbarTransparent
+{
+	background-color: transparent !important;
+	border-color: transparent !important;
+}
+
+#mainNav.navbar-shrink
+{
+	border-color: transparent !important;
+}
+
+#mainNav
+{
+	-webkit-transition: background .3s ease-in-out,padding-top .3s ease-in-out,padding-bottom .3s;
+    -moz-transition: background .3s ease-in-out,padding-top .3s ease-in-out,padding-bottom .3s;
+    transition: background .3s ease-in-out,padding-top .3s ease-in-out,padding-bottom .3s;	
+}
+/*
+.strokeOutline
+{
+	
+}
+*/
+
+#coffeeMain1
+{
+	/* background-image: url("../img/coffeeMain1.jpg"); */
+
+}
+
+
+.footerCSS
+{
+	font-family: Lato,Helvetica,Arial,sans-serif;
+	color: #ffb24a;
+	font-weight: normal;
+	font-size: 0.92em;
+	letter-spacing: 1px;
+	word-spacing: 1px;
+	padding-top: 160px;
+	padding-bottom: 80px;
+	background-color: black;
+}
+
+.footerList
+{
+	list-style-type: none;
+	padding:0;
+	margin: 0;
+	text-align: left;
+	
+}
+
+
+
+.footerTitle
+{
+	text-align: left;
+}
+
+
+.footerCSS a
+{
+	color: white;
+}
+
+.footerCSS small
+{
+	color: white;
+}
+
+hr
+{
+	display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ffb24a;
+    margin: 1em 0;
+    padding: 0; 
+}
+
+.footerAdjust
+{
+	padding-top: 20px;
+}
+
+
+
+.menu-section
+{
+	background-color: white;
+	color: black;
+	padding-top: 50px;
+	padding-bottom: 80px;
+}
+
+.CMS-section
+{
+	background-color: white;
+	color: black;
+	padding-top: 100px;
+	padding-bottom: 150px;
+	
+}
+
+#menuButton
+{
+	margin-top: 80px;
+}
+
+
+
+.googleMap-section
+{
+	background-color: white;
+	color: #ffb24a;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	
+}
+
+#googleMapSearchBar
+{
+   margin-top: 75px;
+   padding-bottom: 20px;
+}
+
+.franchise-section
+{
+	background-color: white;
+	color: #ffb24a;
+	padding-top: 140px;
+	font-family: Lato,Helvetica,Arial,sans-serif;
+	background-image: url('../img/others/aboutBG.png');
+	background-attachment:fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	
+}
+
+#franchiseIntro
+{
+	color: black;
+	font-size: 12px;
+	text-align: right;
+}
+
+#franchiseInfo
+{
+	color: black;
+	text-align: left;
+	font-size: 15px;
+	margin-top: 50px;
+}
+
+
+#franchiseTitles
+{
+	color: black !important;
+	margin: 40px 0 20px 0;
+}
+
+#franchiseList
+{
+	color: black !important;
+	text-align: left;
+	font-size: 14px;
+	margin-top: 20px;
+}
+
+.indentText
+{
+	margin-left: 5px;	
+}
+
+
+.careers-section
+{
+	background-color: white;
+	color: black;
+	padding-top: 140px;
+	font-family: Lato,Helvetica,Arial,sans-serif;
+	padding-bottom: 100px;
+}
+
+#careerIMG
+{
+	height: 40vh;
+    width: 40vh;
+    border-radius: 50%;
+}
+
+#careersTitle
+{
+	margin-bottom: 10px !important;
+	color: #ffb24a;
+}
+
+#careersInfo
+{
+	font-size: 12px;
+}
+
+#careersEmail
+{
+	margin-top: 75px;
+}
+
+#careersEmail a
+{
+	color: black;
+}
+
+.searchBar
+{
+	width: 80%;	
+	margin-bottom: 20px;
+}
+
+#searchBar{
+	background-color: #ffb24a;
+	color: black;
+    border-color: #ffb24a;
+}
+
+#menuFilter
+{
+ 	word-spacing: 10px;
+}
+
+#menuFilter a 
+{
+	color: black;
+}
+
+.row-adjust
+{
+	padding-top: 10px;
+    padding-bottom: 15px;
+
+}
+
+#menuIMG
+{
+	height: 240px;
+    width: auto;
+}
+
+#menuFilterIcon
+{
+	margin-top: 10px; 
+	margin-right: 30px;
+	color: #721c24;
+}
+
+#menuTitle
+{
+	margin: 0 0 0 0;
+	color: #ffb24a;
+	font-weight: 800;
+	font-size: 1em;
+	margin-bottom: 15px;
+}
+
+#menuDefinition
+{
+	font-size: .69em;
+	font-style: italic;
+	letter-spacing: .8;
+	text-align: center;
+	line-height: 1.5 !important;
+	margin: 0px 35px 0px 30px
+}
+
+#menuInfoDisplay
+{
+	color:#721c24;
+	padding-top: 20px;
+}
+
+#menuSectionTitle
+{
+	font-size: 1.5em;
+	letter-spacing: 1.2px;
+	margin-top: 10px;
+	font-weight: 100;
+}
+
+.swiper-container {
+  width: 100%;
+  height: 400px;
+  margin: 30px auto;
+}
+
+.swiper-slide {
+  font-size: 18px;
+  background: #fff;
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+
+}
+
+.append-buttons {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#seemoreInfo
+{
+	background-color: dimgray;
+	background-image: url('../img/others/seeMore.png');
+	width: 300px !important;
+}
+
+#seemoreInfo a 
+{
+	color: white;
+}
+
+.wifiSection-section
+{
+	background-color: #721c24;
+	padding-top: 90px;
+	padding-bottom: 60px;
+	font-family: Cabin,'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+#manageButton
+{
+	border-radius: 8px;
+	background-color: #ffb24a;
+    color: white;
+    border: 2px solid #ffb24a;
+	-webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+	display: inline-block;
+	text-align: center;
+	font-size: 15px;
+	padding: 10px;
+	width: 250px;
+	transition: all 0.5s;
+	cursor: pointer;
+	margin: 5px;
+	letter-spacing: 1.2px;
+	font-weight: 100;
+	font-family: Cabin,'Helvetica Neue',Helvetica,Arial,sans-serif;	
+}
+
+#manageButton span{
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+#manageButton span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+#manageButton:hover span {
+  padding-right: 25px;
+}
+
+#manageButton:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+
+#manageButton:hover {
+    background-color: #ffb24a; /* Green */
+    color: white;
+}
+
+#buttonMain
+{
+	border-radius: 8px;
+	background-color: #0b6937;
+    color: white;
+    border: 2px solid #0b6937; /* Green */
+	-webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+	display: inline-block;
+	text-align: center;
+	font-size: 15px;
+	padding: 10px;
+	width: 150px;
+	transition: all 0.5s;
+	cursor: pointer;
+	margin: 5px;
+	letter-spacing: 1.2px;
+	font-weight: 100;
+	font-family: Cabin,'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+
+#buttonMain span{
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+#buttonMain span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+#buttonMain:hover span {
+  padding-right: 25px;
+}
+
+#buttonMain:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+
+#buttonMain:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+
+#fadelogostretch
+{
+	-webkit-transform: scale(2,1);
+	-moz-transform: scale(2,1);
+	-ms-transform: scale(2,1);
+	-o-transform: scale(2,1);
+	transform: scale(2,1);
+}
+
+#wifiMainTitle
+{
+	font-size: 1.4em;
+    text-align: left;
+	margin: 0;
+	color: white;
+}
+
+#wifiDescript
+{
+	font-size: 1.06em;
+    text-align: left;
+	margin-top: 5px;
+	color: white;
+}
+
+#fadelogostretch{
+	-webkit-transform:scale(2,1); /* Safari and Chrome */
+    -moz-transform:scale(2,1); /* Firefox */
+    -ms-transform:scale(2,1); /* IE 9 */
+    -o-transform:scale(2,1); /* Opera */
+    transform:scale(2,1); /* W3C */
+}
+
+.menuMain-section
+{
+	padding-top: 100px;
+	padding-bottom: 100px;
+	background-color: white;
+	color: black !important;
+}
+
+.menuMain-section a
+{
+	color: #ffb24a;
+}
+
+.menuMainDescript
+{
+	font-size: 0.85em;
+	
+}
+
+#menuName
+{
+	color: #ffb24a;
+	font-size: 0.8em;
+}
+
+
+.page-item.active .page-link
+{
+	color: #fff;
+    background-color: #ffb24a;
+    border-color: #ffb24a;
+}
+
+.newsMain-section
+{
+	padding-top: 120px;
+	padding-bottom: 120px;
+	background-color: white;
+	color: black;
+}
+
+#latestNewsBox
+{
+	margin: 20px 10px 20px 20px;
+}
+
+.newsMain-section a
+{
+	color: black;
+}
+
+#latestNewsText
+{
+	font-size: 0.8em;
+	margin: 0 0 15px;
+}
+
+#newsPicDisplay
+{
+	padding-bottom: 30px;
+}
+
+#newsDisplayTitle
+{
+	font-size: 2em;
+	margin: 0px;
+	font-weight: 400;
+}
+
+#videoAdvert
+{
+	margin-top: 50px;
+}
+
+.aboutMain-section 
+{
+	padding-top: 100px;
+	padding-bottom: 150px;
+	background-color: white;
+	color: black;
+}
+
+
+@media screen and (min-width: 720px) {
+    #aboutDescript
+	{
+		margin-left: 5%;
+		text-align: right;
+	}
+}
+    
+#aboutTitle
+{
+	font-size: 2.5em;
+	font-weight: 700;
+}
+
+
+@media screen and (min-width: 1030px) {
+    #aboutIMG
+	{
+		background-image: url(../img/others/aboutIMG.jpg);
+		height: 30vh;
+		width: 30vh;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		border-radius: 50%;
+		background-size: contain;
+		background-position: center;
+		background-repeat: no-repeat;
+		transition: .5s;
+		-webkit-transition: .5s;
+	}
+
+	#aboutIMG:hover
+	{
+
+		height: 40vh;
+		width: 40vh;
+	}
+
+	#aboutIMG2:hover
+	{
+
+		height: 60vh;
+		width: 60vh;
+	}
+
+	#aboutIMG2
+	{
+		background-image: url(../img/others/aboutIMG2.jpg);
+		height: 45vh;
+		width: 45vh;
+		position: absolute;
+		top: -10%;
+		left: -1%;
+		border-radius: 50%;
+		background-size: contain;
+		background-position: center;
+		background-repeat: no-repeat;
+		transition: .5s;
+		-webkit-transition: .5s;
+	}
+}
+
+#menuModalBTN:focus
+{
+	outline: transparent;
+}
+    
+.loginMain-section
+{
+	padding-top: 150px;
+	padding-bottom: 150px;
+	background-color: white;
+	color: black;
+	
+}
+
+.manage-section
+{
+	padding-top: 100px;
+	padding-bottom: 150px;
+	background-color: white;
+	color: black;	
+}
+
+.IMGDISPLAY
+{
+	display:none;
+	margin: 10px;
+}
+
+#AccountDropDownItem
+{
+	color: black !important;
+	font-size: 14px;
+	
+}
+
+#mainMenuTitle
+{
+	margin: 35px 0 0 0;
+	font-size: 2em;
+	font-weight: 600;
+}
+
+#mainMenuTitleLower
+{
+	font-size: 0.9em;
+	margin: 0 0 25px;
+}
+
+#mainMenuDescript
+{
+	font-size: 1em;
+    font-style: italic;
+	margin: 0 0 40px;
+}
+
+#mainMenuButtonSeemore
+{
+	
+}

@@ -1,0 +1,475 @@
+[11-Feb-2018 23:47:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/jqgfc/public_html/beta/index.php on line 174
+[11-Feb-2018 23:47:08 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 175
+[12-Feb-2018 23:00:55 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/jqgfc/public_html/beta/menu.php on line 125
+[12-Feb-2018 23:00:55 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/menu.php on line 126
+[12-Feb-2018 23:02:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/jqgfc/public_html/beta/menu.php on line 125
+[12-Feb-2018 23:02:43 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/menu.php on line 126
+[12-Feb-2018 23:07:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/jqgfc/public_html/beta/menu.php on line 125
+[12-Feb-2018 23:07:08 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/menu.php on line 126
+[12-Feb-2018 23:07:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/jqgfc/public_html/beta/menu.php on line 125
+[12-Feb-2018 23:07:49 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/menu.php on line 126
+[13-Feb-2018 02:11:01 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/jqgfc/public_html/beta/menuTest.php on line 206
+[13-Feb-2018 02:11:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/jqgfc/public_html/beta/menuTest.php on line 206
+[13-Feb-2018 02:11:26 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/jqgfc/public_html/beta/menuTest.php on line 206
+[13-Feb-2018 02:23:37 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home1/jqgfc/public_html/beta/menuTest.php on line 107
+[13-Feb-2018 02:23:37 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/jqgfc/public_html/beta/menuTest.php on line 108
+[13-Feb-2018 02:23:37 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/menuTest.php on line 109
+[21-Feb-2018 00:08:01 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[21-Feb-2018 00:08:01 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 165
+[21-Feb-2018 00:08:01 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 166
+[21-Feb-2018 00:08:01 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 167
+[24-Feb-2018 16:48:54 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[24-Feb-2018 16:48:54 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 165
+[24-Feb-2018 16:48:54 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 166
+[24-Feb-2018 16:48:54 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 167
+[24-Feb-2018 20:24:30 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[24-Feb-2018 20:24:30 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 165
+[24-Feb-2018 20:24:30 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 166
+[24-Feb-2018 20:24:30 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 167
+[26-Feb-2018 02:03:11 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[26-Feb-2018 02:03:11 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 165
+[26-Feb-2018 02:03:11 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 166
+[26-Feb-2018 02:03:11 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 167
+[28-Feb-2018 01:43:08 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[28-Feb-2018 01:43:08 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 165
+[28-Feb-2018 01:43:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 166
+[28-Feb-2018 01:43:08 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 167
+[07-Mar-2018 05:08:44 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[07-Mar-2018 05:08:44 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 165
+[07-Mar-2018 05:08:44 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 166
+[07-Mar-2018 05:08:44 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 167
+[08-Mar-2018 03:50:27 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_mis'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[08-Mar-2018 03:50:27 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[08-Mar-2018 03:50:27 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[08-Mar-2018 03:50:27 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[08-Mar-2018 03:51:28 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_mis'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[08-Mar-2018 03:51:28 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[08-Mar-2018 03:51:28 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[08-Mar-2018 03:51:28 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[08-Mar-2018 03:51:41 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_mis'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[08-Mar-2018 03:51:41 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[08-Mar-2018 03:51:41 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[08-Mar-2018 03:51:41 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[08-Mar-2018 03:53:59 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_mis'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[08-Mar-2018 03:53:59 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[08-Mar-2018 03:53:59 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[08-Mar-2018 03:53:59 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[08-Mar-2018 03:54:41 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_mis'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[08-Mar-2018 03:54:41 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[08-Mar-2018 03:54:41 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[08-Mar-2018 03:54:41 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[08-Mar-2018 03:54:57 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_mis'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[08-Mar-2018 03:54:57 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[08-Mar-2018 03:54:57 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[08-Mar-2018 03:54:57 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[08-Mar-2018 03:57:18 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_mis'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[08-Mar-2018 03:57:18 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[08-Mar-2018 03:57:18 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[08-Mar-2018 03:57:18 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[08-Mar-2018 03:57:43 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_macarse'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[08-Mar-2018 03:57:43 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[08-Mar-2018 03:57:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[08-Mar-2018 03:57:43 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[08-Mar-2018 03:57:45 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_macarse'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[08-Mar-2018 03:57:45 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[08-Mar-2018 03:57:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[08-Mar-2018 03:57:45 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[08-Mar-2018 03:57:53 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_macarse'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[08-Mar-2018 03:57:53 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[08-Mar-2018 03:57:53 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[08-Mar-2018 03:57:53 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[08-Mar-2018 04:00:04 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'https://www.coffeebreak.ph' (0) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[08-Mar-2018 04:00:04 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[08-Mar-2018 04:00:04 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[08-Mar-2018 04:00:04 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[08-Mar-2018 04:03:47 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/manage-menu.php:1) in /home1/jqgfc/public_html/beta/manage-menu.php on line 3
+[08-Mar-2018 04:03:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 04:03:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 04:06:01 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/manage-menu.php:1) in /home1/jqgfc/public_html/beta/manage-menu.php on line 4
+[08-Mar-2018 04:06:12 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/manage-menu.php:1) in /home1/jqgfc/public_html/beta/manage-menu.php on line 4
+[08-Mar-2018 04:06:12 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 118
+[08-Mar-2018 04:06:12 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 197
+[08-Mar-2018 04:07:03 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/manage-menu.php:1) in /home1/jqgfc/public_html/beta/manage-menu.php on line 4
+[08-Mar-2018 04:07:03 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 118
+[08-Mar-2018 04:07:03 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 197
+[08-Mar-2018 04:09:49 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/manage-menu.php:1) in /home1/jqgfc/public_html/beta/manage-menu.php on line 4
+[08-Mar-2018 04:09:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 118
+[08-Mar-2018 04:09:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 197
+[08-Mar-2018 04:10:05 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/manage-menu.php:1) in /home1/jqgfc/public_html/beta/manage-menu.php on line 4
+[08-Mar-2018 04:10:05 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 118
+[08-Mar-2018 04:10:05 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 197
+[08-Mar-2018 04:11:12 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/manage-menu.php:1) in /home1/jqgfc/public_html/beta/manage-menu.php on line 4
+[08-Mar-2018 04:11:12 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 118
+[08-Mar-2018 04:11:12 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 197
+[08-Mar-2018 04:12:22 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/manage-menu.php:1) in /home1/jqgfc/public_html/beta/manage-menu.php on line 4
+[08-Mar-2018 04:12:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 118
+[08-Mar-2018 04:12:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 197
+[08-Mar-2018 04:12:39 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/manage-menu.php:1) in /home1/jqgfc/public_html/beta/manage-menu.php on line 4
+[08-Mar-2018 04:12:39 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 118
+[08-Mar-2018 04:12:39 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 197
+[08-Mar-2018 04:15:03 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/manage-menu.php:1) in /home1/jqgfc/public_html/beta/manage-menu.php on line 4
+[08-Mar-2018 04:15:34 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/manage-menu.php:1) in /home1/jqgfc/public_html/beta/manage-menu.php on line 4
+[08-Mar-2018 04:15:34 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 118
+[08-Mar-2018 04:15:34 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 197
+[08-Mar-2018 04:20:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 04:20:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 04:20:39 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 04:20:39 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 04:20:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 04:20:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 04:20:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 04:20:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 04:21:03 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 04:21:03 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 04:21:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 04:21:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 04:22:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 04:22:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 04:22:35 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 04:22:35 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 04:22:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 04:22:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 04:22:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 04:22:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 04:22:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 04:22:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 04:23:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 04:23:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 04:24:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 04:24:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 04:25:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 04:25:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 04:26:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 04:26:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 04:26:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 04:26:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 04:29:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 04:29:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 04:29:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 04:29:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 04:30:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 04:30:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 04:30:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 04:30:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 04:33:12 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 04:33:12 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 04:33:41 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 04:33:41 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 04:34:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 04:34:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 20:05:37 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 20:05:37 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 20:05:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 20:05:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 20:08:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 20:08:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 20:15:11 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 20:15:11 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 20:15:14 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 20:15:14 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 20:15:18 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 20:15:18 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 20:15:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 20:15:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 20:16:53 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 20:16:53 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 20:17:53 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 20:17:53 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 20:19:56 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 20:19:56 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 20:21:08 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/news.php:1) in /home1/jqgfc/public_html/beta/news.php on line 3
+[08-Mar-2018 20:29:40 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/news.php:1) in /home1/jqgfc/public_html/beta/news.php on line 3
+[08-Mar-2018 20:29:43 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/news.php:1) in /home1/jqgfc/public_html/beta/news.php on line 3
+[08-Mar-2018 20:41:55 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/news.php:1) in /home1/jqgfc/public_html/beta/news.php on line 3
+[08-Mar-2018 20:45:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 20:45:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 21:05:21 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/jqgfc/public_html/beta/library/html/navbar.php on line 101
+[08-Mar-2018 21:17:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[08-Mar-2018 21:17:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[08-Mar-2018 21:58:35 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_macarse'@'localhost' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[08-Mar-2018 21:58:35 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[08-Mar-2018 21:58:35 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[08-Mar-2018 21:58:35 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[10-Mar-2018 07:16:51 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/news.php:1) in /home1/jqgfc/public_html/beta/news.php on line 3
+[18-Mar-2018 10:02:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[18-Mar-2018 10:02:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[18-Mar-2018 10:03:12 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[18-Mar-2018 10:03:12 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[18-Mar-2018 10:03:36 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[18-Mar-2018 10:03:36 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[01-Apr-2018 00:55:24 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home1/jqgfc/public_html/beta/news.php:1) in /home1/jqgfc/public_html/beta/news.php on line 3
+[01-Apr-2018 00:55:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/news.php:1) in /home1/jqgfc/public_html/beta/news.php on line 3
+[03-Apr-2018 04:25:18 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/news.php:1) in /home1/jqgfc/public_html/beta/news.php on line 3
+[03-Apr-2018 04:25:23 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/news-read.php:1) in /home1/jqgfc/public_html/beta/news-read.php on line 3
+[03-Apr-2018 05:48:29 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 05:48:29 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 05:48:29 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 05:48:29 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:09:20 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '192.168.3.38' (110) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:09:20 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:09:20 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:09:20 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:10:02 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_macarse'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:10:02 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:10:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:10:02 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:10:28 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_macarse'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:10:28 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:10:28 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:10:28 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:12:25 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_macarse'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:12:25 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:12:25 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:12:25 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:15:53 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_macarse'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:15:53 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:15:53 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:15:53 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:16:30 America/Chicago] PHP Fatal error:  Class 'db' not found in /home1/jqgfc/public_html/beta/index.php on line 5
+[03-Apr-2018 21:16:35 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_macarse'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:16:35 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:16:35 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:16:35 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:21:16 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_macarse'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:21:16 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:21:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:21:16 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:21:48 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_macarse'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:21:48 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:21:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:21:48 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:21:49 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_macarse'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:21:49 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:21:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:21:49 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:22:29 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_macarse'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:22:29 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:22:29 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:22:29 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:22:39 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_macarse'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:22:39 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:22:39 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:22:39 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:22:46 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_macarse'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:22:46 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:22:46 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:22:46 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:22:50 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_mis'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:22:50 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:22:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:22:50 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:25:28 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '192.168.3.38' (110) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:25:28 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:25:28 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:25:28 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:25:28 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_macarse'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:25:28 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:25:28 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:25:28 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:25:28 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_macarse'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:25:28 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:25:28 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:25:28 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:25:54 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_macarse'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:25:54 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:25:54 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:25:54 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:26:26 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_macarse'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:26:26 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:26:26 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:26:26 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:26:28 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_macarse'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:26:28 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:26:28 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:26:28 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:28:08 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_macarse'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:28:08 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:28:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:28:08 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:28:12 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_macarse'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:28:12 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:28:12 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:28:12 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:29:00 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_macarse'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:29:00 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:29:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:29:00 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:29:26 America/Chicago] PHP Fatal error:  Class 'db' not found in /home1/jqgfc/public_html/beta/index.php on line 5
+[03-Apr-2018 21:29:37 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'coffeebreak.ph/beta' (0) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:29:37 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:29:37 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:29:37 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:29:43 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_macarse'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:29:43 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:29:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:29:43 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:34:39 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '192.168.3.38' (110) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:34:39 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:34:39 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:34:39 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:35:05 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '192.168.3.38' (110) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:35:05 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:35:05 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:35:05 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:37:12 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '192.168.3.38' (110) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:37:12 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:37:12 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:37:12 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:38:52 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '192.168.3.38' (110) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:38:52 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:38:52 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:38:52 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:39:19 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '192.168.3.38' (110) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:39:19 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:39:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:39:19 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:41:27 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '192.168.3.38' (110) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:41:27 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:41:27 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:41:27 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:41:27 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_mis'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:41:27 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:41:27 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:41:27 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:41:27 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_mis'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:41:27 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:41:27 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:41:27 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:44:06 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '192.168.3.38' (110) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:44:06 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:44:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:44:06 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:48:37 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '192.168.3.38' (110) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:48:37 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:48:37 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:48:37 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:50:44 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '192.168.3.38' (110) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:50:44 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:50:44 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:50:44 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:50:45 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '192.168.3.38' (101) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:50:45 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:50:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:50:45 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:52:12 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '192.168.3.38' (110) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:52:12 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:52:12 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:52:12 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 21:57:16 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '192.168.3.38' (110) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 21:57:16 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 21:57:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 21:57:16 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 22:14:19 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '192.168.3.38' (110) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 22:14:19 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 22:14:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 22:14:19 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 22:58:58 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '192.168.3.38' (110) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 22:58:58 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 22:58:58 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 22:58:58 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 22:58:58 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_macarse'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 22:58:58 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 22:58:58 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 22:58:58 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 22:58:58 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_macarse'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 22:58:58 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 22:58:58 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 22:58:58 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 22:58:58 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_macarse'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 22:58:58 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 22:58:58 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 22:58:58 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 23:00:32 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_mis'@'gator4083.hostgator.com' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 23:00:32 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 23:00:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 23:00:32 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 23:00:52 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_mis'@'gator4083.hostgator.com' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 23:00:52 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 23:00:52 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 23:00:52 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 23:05:04 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_mis'@'gator4083.hostgator.com' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 23:05:04 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 23:05:04 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 23:05:04 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[03-Apr-2018 23:05:47 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_macarse'@'gator4083.hostgator.com' (using password: YES) in /home1/jqgfc/public_html/beta/library/form/connection.php on line 9
+[03-Apr-2018 23:05:47 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/beta/index.php on line 135
+[03-Apr-2018 23:05:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/index.php on line 136
+[03-Apr-2018 23:05:47 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/index.php on line 137
+[04-Apr-2018 01:52:14 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/news.php:1) in /home1/jqgfc/public_html/beta/news.php on line 3
+[04-Apr-2018 04:40:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[04-Apr-2018 04:40:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[05-Apr-2018 21:15:39 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[05-Apr-2018 21:15:39 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[05-Apr-2018 21:20:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[05-Apr-2018 21:20:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[05-Apr-2018 21:20:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[05-Apr-2018 21:20:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[05-Apr-2018 21:20:10 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[05-Apr-2018 21:20:10 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[05-Apr-2018 21:26:20 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[05-Apr-2018 21:26:20 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[05-Apr-2018 21:26:20 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home1/jqgfc/public_html/beta/manage-menu.php on line 887
+[05-Apr-2018 21:27:13 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[05-Apr-2018 21:27:13 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[05-Apr-2018 21:27:13 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home1/jqgfc/public_html/beta/manage-menu.php on line 887
+[05-Apr-2018 21:27:40 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[05-Apr-2018 21:27:40 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[05-Apr-2018 21:27:40 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home1/jqgfc/public_html/beta/manage-menu.php on line 887
+[05-Apr-2018 21:30:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[05-Apr-2018 21:30:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[05-Apr-2018 21:30:08 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home1/jqgfc/public_html/beta/manage-menu.php on line 887
+[05-Apr-2018 21:30:15 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[05-Apr-2018 21:30:15 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[05-Apr-2018 21:30:15 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home1/jqgfc/public_html/beta/manage-menu.php on line 887
+[05-Apr-2018 21:34:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[05-Apr-2018 21:34:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[05-Apr-2018 21:34:23 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home1/jqgfc/public_html/beta/manage-menu.php on line 887
+[05-Apr-2018 21:34:38 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home1/jqgfc/public_html/beta/menu.php on line 218
+[05-Apr-2018 21:34:52 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home1/jqgfc/public_html/beta/menu.php on line 218
+[05-Apr-2018 21:34:54 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home1/jqgfc/public_html/beta/menu.php on line 218
+[05-Apr-2018 21:35:01 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home1/jqgfc/public_html/beta/menu.php on line 218
+[05-Apr-2018 21:38:01 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home1/jqgfc/public_html/beta/menu.php on line 218
+[05-Apr-2018 21:38:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[05-Apr-2018 21:38:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[05-Apr-2018 21:38:47 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home1/jqgfc/public_html/beta/menu.php on line 218
+[05-Apr-2018 21:38:49 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home1/jqgfc/public_html/beta/menu.php on line 218
+[05-Apr-2018 21:49:08 America/Chicago] PHP Fatal error:  Call to a member function bind_result() on a non-object in /home1/jqgfc/public_html/beta/menu.php on line 218
+[05-Apr-2018 21:49:11 America/Chicago] PHP Fatal error:  Call to a member function bind_result() on a non-object in /home1/jqgfc/public_html/beta/menu.php on line 218
+[05-Apr-2018 21:57:48 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/news.php:1) in /home1/jqgfc/public_html/beta/news.php on line 3
+[05-Apr-2018 21:57:52 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/news-read.php:1) in /home1/jqgfc/public_html/beta/news-read.php on line 3
+[05-Apr-2018 21:57:53 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home1/jqgfc/public_html/beta/news-read.php on line 115
+[05-Apr-2018 21:58:02 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/news-read.php:1) in /home1/jqgfc/public_html/beta/news-read.php on line 3
+[05-Apr-2018 21:58:02 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home1/jqgfc/public_html/beta/news-read.php on line 115
+[05-Apr-2018 22:11:08 America/Chicago] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home1/jqgfc/public_html/beta/menu.php on line 217
+[05-Apr-2018 22:11:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/menu.php on line 218
+[05-Apr-2018 22:11:13 America/Chicago] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home1/jqgfc/public_html/beta/menu.php on line 217
+[05-Apr-2018 22:11:13 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jqgfc/public_html/beta/menu.php on line 218
+[05-Apr-2018 22:17:57 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home1/jqgfc/public_html/beta/menu.php on line 221
+[05-Apr-2018 22:17:59 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home1/jqgfc/public_html/beta/menu.php on line 221
+[05-Apr-2018 22:25:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/news.php:1) in /home1/jqgfc/public_html/beta/news.php on line 3
+[05-Apr-2018 22:25:38 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/news-read.php:1) in /home1/jqgfc/public_html/beta/news-read.php on line 3
+[05-Apr-2018 22:25:38 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home1/jqgfc/public_html/beta/news-read.php on line 115
+[05-Apr-2018 22:29:20 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/news-read.php:1) in /home1/jqgfc/public_html/beta/news-read.php on line 3
+[05-Apr-2018 22:29:20 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home1/jqgfc/public_html/beta/news-read.php on line 115
+[05-Apr-2018 22:29:25 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/news-read.php:1) in /home1/jqgfc/public_html/beta/news-read.php on line 3
+[05-Apr-2018 22:29:25 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home1/jqgfc/public_html/beta/news-read.php on line 115
+[05-Apr-2018 22:29:47 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/news-read.php:1) in /home1/jqgfc/public_html/beta/news-read.php on line 3
+[05-Apr-2018 22:29:47 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home1/jqgfc/public_html/beta/news-read.php on line 115
+[05-Apr-2018 22:29:55 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/news.php:1) in /home1/jqgfc/public_html/beta/news.php on line 3
+[05-Apr-2018 22:29:59 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/jqgfc/public_html/beta/news-read.php:1) in /home1/jqgfc/public_html/beta/news-read.php on line 3
+[05-Apr-2018 22:29:59 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home1/jqgfc/public_html/beta/news-read.php on line 115
+[05-Apr-2018 22:32:07 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home1/jqgfc/public_html/beta/news-read.php on line 115
+[05-Apr-2018 22:32:11 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home1/jqgfc/public_html/beta/news-read.php on line 115
+[05-Apr-2018 22:32:16 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home1/jqgfc/public_html/beta/news-read.php on line 115
+[05-Apr-2018 22:32:21 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home1/jqgfc/public_html/beta/news-read.php on line 115
+[05-Apr-2018 22:33:35 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/news-read.php on line 121
+[05-Apr-2018 22:33:39 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/news-read.php on line 121
+[05-Apr-2018 22:33:44 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home1/jqgfc/public_html/beta/news-read.php on line 121
+[06-Apr-2018 01:34:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[06-Apr-2018 01:34:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[07-May-2018 09:37:59 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[07-May-2018 09:37:59 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[07-May-2018 09:38:25 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[07-May-2018 09:38:25 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196
+[07-May-2018 09:38:36 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 117
+[07-May-2018 09:38:36 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home1/jqgfc/public_html/beta/manage-menu.php on line 196

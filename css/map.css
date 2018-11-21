@@ -1,0 +1,15 @@
+ #map {
+    width: 100%;
+  }
+
+#addStoreForm_MAP
+{
+	width: 100%;
+    height: 300px;
+}
+
+#updateStoreForm_MAP
+{
+		width: 100%;
+    height: 300px;
+}
